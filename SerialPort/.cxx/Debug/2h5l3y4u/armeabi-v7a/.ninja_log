@@ -1,0 +1,7 @@
+# ninja log v5
+2	450	1784347287402233510	CMakeFiles/can.dir/dl_uart.c.o	aedf1514a34e1f8f
+4	475	1784347287427851628	CMakeFiles/can.dir/ring_buffer.c.o	ba0c091d2605ba71
+6	520	1784347287472349575	CMakeFiles/can.dir/uart_task.c.o	1121c02e4e00cf1a
+8	580	1784347287527641910	CMakeFiles/can.dir/msg_protocol.c.o	b49590ac310ce07a
+0	3101	1784347290044203439	CMakeFiles/can.dir/native-lib.cpp.o	1774b01eda87c36b
+3103	3383	1784347290330386508	/Users/ma/Documents/JUNTONG/JT_ZG_10 2_副本/SerialPort/build/intermediates/cxx/Debug/2h5l3y4u/obj/armeabi-v7a/libcan.so	b24cd4becb9ecc0d

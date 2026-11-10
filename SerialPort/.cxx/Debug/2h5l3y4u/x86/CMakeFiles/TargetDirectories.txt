@@ -1,0 +1,3 @@
+/Users/ma/Documents/JUNTONG/AndroidControlScreen/SerialPort/.cxx/Debug/2h5l3y4u/x86/CMakeFiles/can.dir
+/Users/ma/Documents/JUNTONG/AndroidControlScreen/SerialPort/.cxx/Debug/2h5l3y4u/x86/CMakeFiles/edit_cache.dir
+/Users/ma/Documents/JUNTONG/AndroidControlScreen/SerialPort/.cxx/Debug/2h5l3y4u/x86/CMakeFiles/rebuild_cache.dir

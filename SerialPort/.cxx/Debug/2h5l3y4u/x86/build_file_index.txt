@@ -1,0 +1,1 @@
+/Users/ma/Documents/JUNTONG/AndroidControlScreen/SerialPort/src/main/cpp/CMakeLists.txt

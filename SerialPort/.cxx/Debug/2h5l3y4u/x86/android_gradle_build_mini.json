@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/Users/ma/Documents/JUNTONG/AndroidControlScreen/SerialPort/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/ma/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/ma/Documents/JUNTONG/AndroidControlScreen/SerialPort/.cxx/Debug/2h5l3y4u/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/ma/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/ma/Documents/JUNTONG/AndroidControlScreen/SerialPort/.cxx/Debug/2h5l3y4u/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "can::@6890427a1f51a3e7e1df": {
+      "artifactName": "can",
+      "abi": "x86",
+      "output": "/Users/ma/Documents/JUNTONG/AndroidControlScreen/SerialPort/build/intermediates/cxx/Debug/2h5l3y4u/obj/x86/libcan.so",
+      "runtimeFiles": []
+    }
+  }
+}

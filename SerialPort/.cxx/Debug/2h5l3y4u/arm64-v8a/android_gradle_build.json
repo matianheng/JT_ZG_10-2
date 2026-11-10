@@ -1,0 +1,40 @@
+{
+  "buildFiles": [
+    "/Users/ma/Documents/JUNTONG/JT_ZG_10 2/SerialPort/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/ma/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/ma/Documents/JUNTONG/JT_ZG_10 2/SerialPort/.cxx/Debug/2h5l3y4u/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/ma/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/ma/Documents/JUNTONG/JT_ZG_10 2/SerialPort/.cxx/Debug/2h5l3y4u/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "can::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "can",
+      "output": "/Users/ma/Documents/JUNTONG/JT_ZG_10 2/SerialPort/build/intermediates/cxx/Debug/2h5l3y4u/obj/arm64-v8a/libcan.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/ma/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/ma/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

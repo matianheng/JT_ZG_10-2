@@ -1,0 +1,14 @@
+# ninja log v5
+15	289	7936256417117123	CMakeFiles/can.dir/dl_uart.c.o	c680100fdea1b27a
+44	297	7936256417207085	CMakeFiles/can.dir/ring_buffer.c.o	747debc6aad2e7df
+26	323	7936256417466920	CMakeFiles/can.dir/uart_task.c.o	10744a3a38e2e01b
+38	486	7936256419102451	CMakeFiles/can.dir/msg_protocol.c.o	50453835e0ade580
+1	1101	7936256425214136	CMakeFiles/can.dir/native-lib.cpp.o	1643fc9eb571a24c
+1104	1273	7936256426903253	D:/files/appwork/JT_ZG_10/SerialPort/build/intermediates/cxx/RelWithDebInfo/5q4e4jl1/obj/arm64-v8a/libcan.so	9b53c3dad110f39
+0	28	0	clean	1a5333f9ba8b1a6f
+4	334	7960485267681029	CMakeFiles/can.dir/dl_uart.c.o	c680100fdea1b27a
+69	336	7960485267701027	CMakeFiles/can.dir/ring_buffer.c.o	747debc6aad2e7df
+103	339	7960485267770976	CMakeFiles/can.dir/uart_task.c.o	10744a3a38e2e01b
+52	579	7960485269984173	CMakeFiles/can.dir/msg_protocol.c.o	50453835e0ade580
+24	1306	7960485277362733	CMakeFiles/can.dir/native-lib.cpp.o	1643fc9eb571a24c
+1307	1535	7960485279687512	D:/files/appwork/JT_ZG_10/SerialPort/build/intermediates/cxx/RelWithDebInfo/5q4e4jl1/obj/arm64-v8a/libcan.so	9b53c3dad110f39

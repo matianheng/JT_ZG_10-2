@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="D:\files\appwork\JT_ZG_10\lib_safekeyboard"
+    name=":lib_safekeyboard"
+    type="LIBRARY"
+    maven="JT_ZG_10:lib_safekeyboard:"
+    agpVersion="8.3.1"
+    buildFolder="build"
+    bootClassPath="C:\Users\Administrator\AppData\Local\Android\Sdk\platforms\android-31\android.jar;C:\Users\Administrator\AppData\Local\Android\Sdk\build-tools\34.0.0\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-31"
+    neverShrinking="true">
+  <lintOptions
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

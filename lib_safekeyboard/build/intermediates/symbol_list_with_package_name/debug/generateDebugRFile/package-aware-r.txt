@@ -1,0 +1,36 @@
+com.android.sdk.kb
+anim keyboard_dialog_enter
+anim keyboard_dialog_exit
+attr disableCopyAndPaste
+attr isRandom
+attr keyDrawable
+attr keyboardBgColor
+attr keyboardTextColor
+attr keyboardTextSize
+attr keyboardTitle
+attr keyboardTitleBgColor
+attr keyboardTitleColor
+attr keyboardTitleSize
+attr xmlLayoutResId
+drawable sel_keyboard_key
+drawable shape_key_normal
+drawable shape_key_pressed
+id ekbFlKeyboardTitle
+id ekbKvKeyboardTitle
+id ekbTvKeyboardTitle
+layout custom_keyboardview
+string keyboard_key_and
+string keyboard_key_at
+string keyboard_key_left
+string keyboard_key_quotation
+string keyboard_key_right
+string left_keyboard
+string right_keyboard
+style AnimationFade
+style DefaultKeyboardStyle
+styleable AutoKeyboardEditText disableCopyAndPaste isRandom keyDrawable keyboardBgColor keyboardTextColor keyboardTextSize keyboardTitle keyboardTitleBgColor keyboardTitleColor keyboardTitleSize xmlLayoutResId
+styleable KeyboardLayout isRandom keyDrawable keyboardBgColor keyboardTextColor keyboardTextSize keyboardTitle keyboardTitleBgColor keyboardTitleColor keyboardTitleSize xmlLayoutResId
+xml keyboard_letter_lower_case
+xml keyboard_letter_upper_case
+xml keyboard_numeric
+xml keyboard_symbol

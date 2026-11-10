@@ -1,0 +1,27 @@
+[
+{
+  "directory": "D:/files/appwork/JT_ZG_10/SerialPort/.cxx/RelWithDebInfo/5q4e4jl1/x86_64",
+  "command": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android28 --sysroot=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dcan_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -O2 -g -DNDEBUG -fPIC -o CMakeFiles\\can.dir\\native-lib.cpp.o -c D:\\files\\appwork\\JT_ZG_10\\SerialPort\\src\\main\\cpp\\native-lib.cpp",
+  "file": "D:\\files\\appwork\\JT_ZG_10\\SerialPort\\src\\main\\cpp\\native-lib.cpp"
+},
+{
+  "directory": "D:/files/appwork/JT_ZG_10/SerialPort/.cxx/RelWithDebInfo/5q4e4jl1/x86_64",
+  "command": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android28 --sysroot=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dcan_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC -o CMakeFiles\\can.dir\\dl_uart.c.o -c D:\\files\\appwork\\JT_ZG_10\\SerialPort\\src\\main\\cpp\\dl_uart.c",
+  "file": "D:\\files\\appwork\\JT_ZG_10\\SerialPort\\src\\main\\cpp\\dl_uart.c"
+},
+{
+  "directory": "D:/files/appwork/JT_ZG_10/SerialPort/.cxx/RelWithDebInfo/5q4e4jl1/x86_64",
+  "command": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android28 --sysroot=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dcan_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC -o CMakeFiles\\can.dir\\ring_buffer.c.o -c D:\\files\\appwork\\JT_ZG_10\\SerialPort\\src\\main\\cpp\\ring_buffer.c",
+  "file": "D:\\files\\appwork\\JT_ZG_10\\SerialPort\\src\\main\\cpp\\ring_buffer.c"
+},
+{
+  "directory": "D:/files/appwork/JT_ZG_10/SerialPort/.cxx/RelWithDebInfo/5q4e4jl1/x86_64",
+  "command": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android28 --sysroot=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dcan_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC -o CMakeFiles\\can.dir\\uart_task.c.o -c D:\\files\\appwork\\JT_ZG_10\\SerialPort\\src\\main\\cpp\\uart_task.c",
+  "file": "D:\\files\\appwork\\JT_ZG_10\\SerialPort\\src\\main\\cpp\\uart_task.c"
+},
+{
+  "directory": "D:/files/appwork/JT_ZG_10/SerialPort/.cxx/RelWithDebInfo/5q4e4jl1/x86_64",
+  "command": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android28 --sysroot=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dcan_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC -o CMakeFiles\\can.dir\\msg_protocol.c.o -c D:\\files\\appwork\\JT_ZG_10\\SerialPort\\src\\main\\cpp\\msg_protocol.c",
+  "file": "D:\\files\\appwork\\JT_ZG_10\\SerialPort\\src\\main\\cpp\\msg_protocol.c"
+}
+]

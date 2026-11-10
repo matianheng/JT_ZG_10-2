@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "D:\\files\\appwork\\JT_ZG_10\\SerialPort\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "D:\\files\\appwork\\JT_ZG_10\\SerialPort\\.cxx\\RelWithDebInfo\\5q4e4jl1\\armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "D:\\files\\appwork\\JT_ZG_10\\SerialPort\\.cxx\\RelWithDebInfo\\5q4e4jl1\\armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "can::@6890427a1f51a3e7e1df": {
+      "artifactName": "can",
+      "abi": "armeabi-v7a",
+      "output": "D:\\files\\appwork\\JT_ZG_10\\SerialPort\\build\\intermediates\\cxx\\RelWithDebInfo\\5q4e4jl1\\obj\\armeabi-v7a\\libcan.so",
+      "runtimeFiles": []
+    }
+  }
+}

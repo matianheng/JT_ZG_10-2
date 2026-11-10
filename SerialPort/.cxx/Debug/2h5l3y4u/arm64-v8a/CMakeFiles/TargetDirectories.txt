@@ -1,0 +1,3 @@
+/Users/ma/Documents/JUNTONG/JT_ZG_10 2/SerialPort/.cxx/Debug/2h5l3y4u/arm64-v8a/CMakeFiles/can.dir
+/Users/ma/Documents/JUNTONG/JT_ZG_10 2/SerialPort/.cxx/Debug/2h5l3y4u/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/ma/Documents/JUNTONG/JT_ZG_10 2/SerialPort/.cxx/Debug/2h5l3y4u/arm64-v8a/CMakeFiles/rebuild_cache.dir

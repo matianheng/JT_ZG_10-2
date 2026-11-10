@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/Users/ma/Documents/JUNTONG/JT_ZG_10 2/SerialPort/.cxx/Debug/2h5l3y4u/arm64-v8a",
+  "command": "/Users/ma/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android28 --sysroot=/Users/ma/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcan_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -fno-limit-debug-info  -fPIC -o CMakeFiles/can.dir/native-lib.cpp.o -c \"/Users/ma/Documents/JUNTONG/JT_ZG_10 2/SerialPort/src/main/cpp/native-lib.cpp\"",
+  "file": "/Users/ma/Documents/JUNTONG/JT_ZG_10 2/SerialPort/src/main/cpp/native-lib.cpp"
+},
+{
+  "directory": "/Users/ma/Documents/JUNTONG/JT_ZG_10 2/SerialPort/.cxx/Debug/2h5l3y4u/arm64-v8a",
+  "command": "/Users/ma/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android28 --sysroot=/Users/ma/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcan_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -o CMakeFiles/can.dir/dl_uart.c.o -c \"/Users/ma/Documents/JUNTONG/JT_ZG_10 2/SerialPort/src/main/cpp/dl_uart.c\"",
+  "file": "/Users/ma/Documents/JUNTONG/JT_ZG_10 2/SerialPort/src/main/cpp/dl_uart.c"
+},
+{
+  "directory": "/Users/ma/Documents/JUNTONG/JT_ZG_10 2/SerialPort/.cxx/Debug/2h5l3y4u/arm64-v8a",
+  "command": "/Users/ma/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android28 --sysroot=/Users/ma/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcan_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -o CMakeFiles/can.dir/ring_buffer.c.o -c \"/Users/ma/Documents/JUNTONG/JT_ZG_10 2/SerialPort/src/main/cpp/ring_buffer.c\"",
+  "file": "/Users/ma/Documents/JUNTONG/JT_ZG_10 2/SerialPort/src/main/cpp/ring_buffer.c"
+},
+{
+  "directory": "/Users/ma/Documents/JUNTONG/JT_ZG_10 2/SerialPort/.cxx/Debug/2h5l3y4u/arm64-v8a",
+  "command": "/Users/ma/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android28 --sysroot=/Users/ma/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcan_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -o CMakeFiles/can.dir/uart_task.c.o -c \"/Users/ma/Documents/JUNTONG/JT_ZG_10 2/SerialPort/src/main/cpp/uart_task.c\"",
+  "file": "/Users/ma/Documents/JUNTONG/JT_ZG_10 2/SerialPort/src/main/cpp/uart_task.c"
+},
+{
+  "directory": "/Users/ma/Documents/JUNTONG/JT_ZG_10 2/SerialPort/.cxx/Debug/2h5l3y4u/arm64-v8a",
+  "command": "/Users/ma/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android28 --sysroot=/Users/ma/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcan_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -o CMakeFiles/can.dir/msg_protocol.c.o -c \"/Users/ma/Documents/JUNTONG/JT_ZG_10 2/SerialPort/src/main/cpp/msg_protocol.c\"",
+  "file": "/Users/ma/Documents/JUNTONG/JT_ZG_10 2/SerialPort/src/main/cpp/msg_protocol.c"
+}
+]

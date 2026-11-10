@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr format="boolean" name="disableCopyAndPaste"/>
+    <attr format="boolean" name="isRandom"/>
+    <attr format="reference" name="keyDrawable"/>
+    <attr format="color|reference" name="keyboardBgColor"/>
+    <attr format="color|reference" name="keyboardTextColor"/>
+    <attr format="dimension|reference" name="keyboardTextSize"/>
+    <attr format="string|reference" name="keyboardTitle"/>
+    <attr format="color|reference" name="keyboardTitleBgColor"/>
+    <attr format="color|reference" name="keyboardTitleColor"/>
+    <attr format="dimension|reference" name="keyboardTitleSize"/>
+    <attr format="reference" name="xmlLayoutResId"/>
+    <string name="keyboard_key_and">"@"</string>
+    <string name="keyboard_key_at">"&amp;"</string>
+    <string name="keyboard_key_left">"&lt;"</string>
+    <string name="keyboard_key_quotation">\"</string>
+    <string name="keyboard_key_right">">"</string>
+    <string name="left_keyboard">Delete</string>
+    <string name="right_keyboard">OK</string>
+    <style name="AnimationFade">
+        <item name="android:windowEnterAnimation">@anim/keyboard_dialog_enter</item>
+        <item name="android:windowExitAnimation">@anim/keyboard_dialog_exit</item>
+    </style>
+    <style name="DefaultKeyboardStyle">
+        <item name="isRandom">false</item>
+
+        <item name="keyDrawable">@drawable/sel_keyboard_key</item>
+        <item name="keyboardBgColor">#272727</item>
+        <item name="keyboardTextColor">#EDEDED</item>
+        <item name="keyboardTextSize">16sp</item>
+
+        <item name="keyboardTitleColor">#FFFFFF</item>
+        <item name="keyboardTitleBgColor">#272727</item>
+        <item name="keyboardTitleSize">16sp</item>
+    </style>
+    <declare-styleable name="AutoKeyboardEditText">
+        <attr name="xmlLayoutResId"/>
+        <attr name="isRandom"/>
+        <attr name="disableCopyAndPaste"/>
+
+        <attr name="keyDrawable"/>
+        <attr name="keyboardBgColor"/>
+        <attr name="keyboardTextColor"/>
+        <attr name="keyboardTextSize"/>
+
+        <attr name="keyboardTitle"/>
+        <attr name="keyboardTitleSize"/>
+        <attr name="keyboardTitleColor"/>
+        <attr name="keyboardTitleBgColor"/>
+    </declare-styleable>
+    <declare-styleable name="KeyboardLayout">
+        <attr name="xmlLayoutResId"/>
+        <attr name="isRandom"/>
+
+        <attr name="keyDrawable"/>
+        <attr name="keyboardBgColor"/>
+        <attr name="keyboardTextColor"/>
+        <attr name="keyboardTextSize"/>
+
+        <attr name="keyboardTitle"/>
+        <attr name="keyboardTitleSize"/>
+        <attr name="keyboardTitleColor"/>
+        <attr name="keyboardTitleBgColor"/>
+    </declare-styleable>
+</resources>

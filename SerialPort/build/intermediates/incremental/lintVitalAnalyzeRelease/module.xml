@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="D:\files\appwork\JT_ZG_10\SerialPort"
+    name=":SerialPort"
+    type="LIBRARY"
+    maven="JT_ZG_10:SerialPort:"
+    agpVersion="8.3.1"
+    buildFolder="build"
+    bootClassPath="C:\Users\Administrator\AppData\Local\Android\Sdk\platforms\android-34\android.jar;C:\Users\Administrator\AppData\Local\Android\Sdk\build-tools\34.0.0\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-34"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

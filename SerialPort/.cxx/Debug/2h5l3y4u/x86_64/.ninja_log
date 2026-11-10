@@ -1,0 +1,7 @@
+# ninja log v5
+4	307	1794271411514043493	CMakeFiles/can.dir/ring_buffer.c.o	b5a34d058a9fc661
+2	333	1794271411537397790	CMakeFiles/can.dir/dl_uart.c.o	608232b52a3c31a0
+6	346	1794271411548839358	CMakeFiles/can.dir/uart_task.c.o	bb03bb49be5b789f
+8	346	1794271411551248918	CMakeFiles/can.dir/msg_protocol.c.o	f24aa476f3acd83f
+1	1595	1794271412797636876	CMakeFiles/can.dir/native-lib.cpp.o	fb054525c00a2340
+1596	1848	1794271413051064825	/Users/ma/Documents/JUNTONG/AndroidControlScreen/SerialPort/build/intermediates/cxx/Debug/2h5l3y4u/obj/x86_64/libcan.so	3bbd1fc78db9f3c3
